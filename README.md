@@ -1,2 +1,2 @@
 # HariKrishna__Reinforcement_Learning
-Reinforcement_Learning
+Reinforcement Learning
