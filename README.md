@@ -5,9 +5,23 @@
 # 🔻 What is Reinforcement Learning?
 <p align='justify'>Reinforcement Learning (RL) is a type of machine learning where agents learn to make decisions by interacting with an environment to maximize some notion of cumulative reward. It's characterized by trial-and-error, feedback, and the balance between exploration of uncharted territory and exploitation of current knowledge.</p>
 
+<p align="center">
+    <img src="readme_data/RL_rmi1.png" alt="Inspiring quote related to computer vision and robotics" width="1500"/>
+</p>
+
 # 🔻 What are Agents?
 <p align='justify'>In RL, an agent is any entity that can observe its environment, select actions, and learn through trial and error. Agents aim to discover the best actions to take in various situations to achieve their goals, guided by rewards received for their actions.</p>
 
+<p align="center">
+    <img src="readme_data/RL_rmi2.png" alt="Inspiring quote related to computer vision and robotics" width="1500"/>
+</p>
+
+<br>
+<br>
+
+<p align="center">
+    <img src="readme_data/RL_rmi3.png" alt="Inspiring quote related to computer vision and robotics" width="1500"/>
+</p>
 
 # 🔻 Repository Details
 <p align='justify'>This repository contains various simulations on agents that currently don't think but, using state-of-the-art simulators like Unreal Engine, PyBullet, MuJoCo, and Unity. I will train different sets of Reinforcement Learning algorithms on these agents and test all algorithms.</p>
