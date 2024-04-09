@@ -1,7 +1,7 @@
 # Reinforcement Ball Balancing Slab
 
 <p align="center">
-  <img src="data/0.png" alt="Project Logo Cover" width="1500"/>
+  <img src="readme_data/0.png" alt="Project Logo Cover" width="1500"/>
 </p>
 
 
@@ -12,7 +12,7 @@
 The project depicted in the image involves the development of a ball balancing slab system utilizing a reinforcement learning agent. It's an artificial intelligence application programmed in C# and implemented with the Unity game engine.
 
 <p align="center">
-  <img src="data/Thumbnail.png" alt="Project Title" width="1500"/>
+  <img src="readme_data/Thumbnail.png" alt="Project Title" width="1500"/>
 </p>
 
 
@@ -23,7 +23,7 @@ The project depicted in the image involves the development of a ball balancing s
 The project is designed to demonstrate a reinforcement learning (RL) scenario where an AI agent is tasked with balancing a ball on a slab. The agent receives a small positive reward incrementally for each time step that the ball stays on the slab, encouraging the agent to learn strategies for maintaining balance. Conversely, a negative reward is given when the ball falls off, which helps the agent to learn from its mistakes and avoid actions leading to such an outcome. The control mechanism allows the slab to be rotated along two axes, which adds complexity to the task and requires the agent to develop a nuanced understanding of the physics involved.
 
 <p align="center">
-  <img src="data/2.png" alt="2" width="1500"/>
+  <img src="readme_data/2.png" alt="2" width="1500"/>
 </p>
 
 
@@ -45,7 +45,7 @@ Proximal Policy Optimization (PPO) is a policy gradient method for reinforcement
     • Advantage: PPO is favored for its simplicity, efficiency, and consistent performance across various RL tasks.
 
 <p align="center">
-  <img src="data/3.png" alt="3" width="1500"/>
+  <img src="readme_data/3.png" alt="3" width="1500"/>
 </p>
 
 
@@ -55,7 +55,7 @@ Proximal Policy Optimization (PPO) is a policy gradient method for reinforcement
 ## Results:
 
 <p align="center">
-  <img src="data/4.png" alt="4" width="1500"/>
+  <img src="readme_data/4.png" alt="4" width="1500"/>
 </p>
 
 
