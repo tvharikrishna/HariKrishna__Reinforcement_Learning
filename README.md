@@ -3,10 +3,10 @@
 <p align="right">1 minute read 📚</p>
 
 # 🔻 What is Reinforcement Learning?
-<p align='justify'>Reinforcement Learning (RL) is a type of machine learning where an agent learns to make decisions by taking actions in an environment to achieve some goals. Unlike other types of learning, RL is based on interaction and feedback from the environment: positive feedback reinforces the agent's actions, while negative feedback discourages them. This learning process involves exploration (trying new things) and exploitation (using known strategies) to maximize the cumulative reward over time. It's applied in various fields, including robotics, game playing, and autonomous vehicles, where decision-making in complex, unpredictable environments is required.</p>
+<p align='justify'>Reinforcement Learning (RL) is a type of machine learning where agents learn to make decisions by interacting with an environment to maximize some notion of cumulative reward. It's characterized by trial-and-error, feedback, and the balance between exploration of uncharted territory and exploitation of current knowledge.</p>
 
 # 🔻 What are Agents?
-<p align='justify'>In the context of Reinforcement Learning, an agent is an entity that interacts with an environment to achieve certain objectives. Agents perceive their environment through sensors and act upon that environment through effectors. Each action taken by the agent leads to some form of feedback from the environment, often in the form of rewards or penalties. The goal of the agent is to learn the best series of actions, or policy, that maximizes the cumulative rewards over time. Training involves the agent experimenting with different actions and learning from the outcomes, gradually improving its decision-making process.</p>
+<p align='justify'>In RL, an agent is any entity that can observe its environment, select actions, and learn through trial and error. Agents aim to discover the best actions to take in various situations to achieve their goals, guided by rewards received for their actions.</p>
 
 
 # 🔻 Repository Details
