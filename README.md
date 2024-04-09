@@ -16,11 +16,11 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><strong>HKUnreal</strong></td>
+<td align="center"><strong>HKUNREAL</strong></td>
 <td align="center">Simulations in Unreal Engine</td>
 </tr>
 <tr>
-<td align="center"><strong>HKUnity</strong></td>
+<td align="center"><strong>HKUNITY</strong></td>
 <td align="center">Simulations in Unity</td>
 </tr>
 <tr>
