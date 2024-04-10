@@ -10,7 +10,8 @@
 </p>
 
 # 🔻 What are Agents?
-<p align='justify'>In RL, an agent is any entity that can observe its environment, select actions, and learn through trial and error. Agents aim to discover the best actions to take in various situations to achieve their goals, guided by rewards received for their actions.</p>
+An Agent is an entity capable of perceiving its environment, making decisions on what actions to take, and learning from the outcomes of these actions. The agent's goal is to find the best strategy, or policy, that will maximize the cumulative rewards over time. This process involves observing the environment, executing actions, receiving rewards, and updating the policy based on the learned experiences.
+</p>
 
 <p align="center">
     <img src="readme_data/RL_2.png" alt="Inspiring quote related to computer vision and robotics" width="1500"/>
