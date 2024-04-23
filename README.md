@@ -14,7 +14,7 @@
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>HK_Isaac__</strong></td>
+<td align="left"><strong>HK_IsaacGym__</strong></td>
 <td align="right">Simulations in Isaac Gym</td>
 </tr>
 <tr>
