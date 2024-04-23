@@ -15,7 +15,7 @@
 <tbody>
 <tr>
 <td align="left"><strong>HK_Isaac__</strong></td>
-<td align="right">Simulations in Unity</td>
+<td align="right">Simulations in Isaac Gym</td>
 </tr>
 <tr>
 <td align="left"><strong>HK_PyBullet__</strong></td>
