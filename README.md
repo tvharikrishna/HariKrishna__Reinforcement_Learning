@@ -14,16 +14,16 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><strong>HK_Isaac__</strong></td>
-<td align="center">Simulations in Unity</td>
+<td align="left"><strong>HK_Isaac__</strong></td>
+<td align="right">Simulations in Unity</td>
 </tr>
 <tr>
-<td align="center"><strong>HK_PyBullet__</strong></td>
-<td align="center">Simulations in PyBullet</td>
+<td align="left"><strong>HK_PyBullet__</strong></td>
+<td align="right">Simulations in PyBullet</td>
 </tr>
 <tr>
-<td align="center"><strong>HK_MuJuCo__</strong></td>
-<td align="center">Simulations in MuJoCo</td>
+<td align="left"><strong>HK_MuJuCo__</strong></td>
+<td align="right">Simulations in MuJoCo</td>
 </tr>
 </tbody>
 </table>
