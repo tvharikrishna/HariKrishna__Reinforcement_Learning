@@ -45,13 +45,7 @@ An Agent is an entity capable of perceiving its environment, making decisions on
 
 <p align="center">
     <img src="readme_data/RL_3.png" alt="Inspiring quote related to computer vision and robotics" width="1500"/>
-</p>
-
-# 🔻 Framework & Tools
-<img src="https://img.shields.io/badge/Unity-000000.svg?&style=flat-square&logo=unity&logoColor=white" alt="Unity" style="height: 30px;"/> &nbsp;
-<img src="https://img.shields.io/badge/Unreal%20Engine-313131.svg?&style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine" style="height: 30px;"/> &nbsp;
-<img src="https://img.shields.io/badge/MuJoCo-008080.svg?&style=flat-square&logo=Brave&logoColor=white" alt="MuJoCo" style="height: 30px;"/> &nbsp;
-<img src="https://img.shields.io/badge/PyBullet-FFA500.svg?&style=flat-square&logo=deno&logoColor=464647" alt="PyBullet" style="height: 30px;"/> &nbsp; <hr> 
+</p> <hr> <br> <br>
 
 <p align="center">
     <img src="readme_data/hk_quote.png" alt="Inspiring quote related to computer vision and robotics" width="1500"/>
