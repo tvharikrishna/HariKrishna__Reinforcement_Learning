@@ -14,7 +14,7 @@
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>HK_IsaacGym__</strong></td>
+<td align="left"><strong>HK_Isaac_</strong></td>
 <td align="right">Simulations in Isaac Gym</td>
 </tr>
 <tr>
@@ -43,6 +43,7 @@ An Agent is an entity capable of perceiving its environment, making decisions on
     <img src="readme_data/RL_2.png" alt="Inspiring quote related to computer vision and robotics" width="1500"/>
 </p> <br> <br>
 
+# 🔻 RL Pipeline
 <p align="center">
     <img src="readme_data/RL_3.png" alt="Inspiring quote related to computer vision and robotics" width="1500"/>
 </p> <hr> <br> <br>
