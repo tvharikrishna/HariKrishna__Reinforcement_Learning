@@ -36,7 +36,7 @@
 <li><a href="https://github.com/google-deepmind/dm_control">Google Deep Mind Control Suite</a></li>
 <li><a href="https://mujoco.org/">MuJoCo</a></li>
 <li><a href="https://pybullet.org/wordpress/">PyBullet</a></li>
-</ul>
+</ul> <br>
 
 <h2 align="left">🔻 What is Reinforcement Learning?</h2>
 <p align='justify'>Reinforcement Learning (RL) is a type of machine learning where agents learn to make decisions by interacting with an environment to maximize some notion of cumulative reward. It's characterized by trial-and-error, feedback, and the balance between exploration of uncharted territory and exploitation of current knowledge.</p>
