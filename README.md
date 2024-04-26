@@ -14,15 +14,15 @@
 </thead>
 <tbody>
 <tr>
-<td align="left"><strong>HK_Isaac__</strong></td>
+<td align="left"><strong>HKRL_Isaac__</strong></td>
 <td align="right">Simulations in Isaac Gym</td>
 </tr>
 <tr>
-<td align="left"><strong>HK_PyBullet__</strong></td>
+<td align="left"><strong>HKRL_PyBullet__</strong></td>
 <td align="right">Simulations in PyBullet</td>
 </tr>
 <tr>
-<td align="left"><strong>HK_MuJuCo__</strong></td>
+<td align="left"><strong>HKRL_MuJuCo__</strong></td>
 <td align="right">Simulations in MuJoCo</td>
 </tr>
 </tbody>
