@@ -15,21 +15,23 @@
 <tbody>
 <tr>
 <td align="left"><strong>HK_Isaac__</strong></td>
-<td align="left">Simulations in Isaac Gym</td>
+<td align="right">Simulations in Isaac Gym</td>
 </tr>
 <tr>
 <td align="left"><strong>HK_PyBullet__</strong></td>
-<td align="left">Simulations in PyBullet</td>
+<td align="right">Simulations in PyBullet</td>
 </tr>
 <tr>
 <td align="left"><strong>HK_MuJuCo__</strong></td>
-<td align="left">Simulations in MuJoCo</td>
+<td align="right">Simulations in MuJoCo</td>
 </tr>
 </tbody>
 </table>
 
 <h2 align="left">🔻 Frameworks & Agents</h2>
 <ul>
+<li><a href="https://www.nvidia.com/en-us/industries/robotics/">Nvidia AI for Robotics</a></li>
+<li><a href="https://github.com/NVIDIA-Omniverse/OmniIsaacGymEnvs">OmniIsaacGymEnvs Github</a></li>
 <li><a href="https://developer.nvidia.com/nvidia-omniverse">Nvidia Omniverse</a></li>
 <li><a href="https://developer.nvidia.com/isaac-sdk">Nvidia Isaac</a></li>
 <li><a href="https://docs.omniverse.nvidia.com/isaacsim/latest/isaac_gym_tutorials/index.html">Nvidia Isaac Gym Documentation</a></li>
