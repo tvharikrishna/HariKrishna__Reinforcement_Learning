@@ -44,10 +44,10 @@ The PPO Ball Balancing project utilizes Unity and C# for game scripting and Pyth
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Windows-0078D6.svg?&style=flat-square&logo=windows&logoColor=white" alt="Windows" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/C%23-004482.svg?&style=flat-square&logo=cplusplus&logoColor=white" alt="C#" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/Unity-000000.svg?&style=flat-square&logo=unity&logoColor=white" alt="Unity" style="height: 25px;"/>
+<img src="https://img.shields.io/badge/Windows-0078D6.svg?&style=flat-square&logo=windows&logoColor=white" alt="Windows" style="height: 30px;"/> &nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 30px;"/> &nbsp;
+<img src="https://img.shields.io/badge/C%23-004482.svg?&style=flat-square&logo=cplusplus&logoColor=white" alt="C#" style="height: 30px;"/> &nbsp;
+<img src="https://img.shields.io/badge/Unity-000000.svg?&style=flat-square&logo=unity&logoColor=white" alt="Unity" style="height: 30px;"/>
 </p> <br>
 
 <!------ Deployment and Testing ------>
@@ -87,7 +87,7 @@ Proximal Policy Optimization (PPO) is a policy gradient method for reinforcement
 </p>
 
 <p align='justify'>
-▸ The analysis of the PPO Ball Balancing project demonstrates successful ball stabilization on the slab with the ability to rapidly adapt to environmental changes. Quantitative metrics and real-time visualizations confirm the algorithm's efficiency and responsiveness, showcasing the practical viability of the system in dynamic scenarios.
+The analysis of the PPO Ball Balancing project demonstrates successful ball stabilization on the slab with the ability to rapidly adapt to environmental changes. Quantitative metrics and real-time visualizations confirm the algorithm's efficiency and responsiveness, showcasing the practical viability of the system in dynamic scenarios.
 </p> <hr> <br> <br> 
 
 <!------ End Image ------>
