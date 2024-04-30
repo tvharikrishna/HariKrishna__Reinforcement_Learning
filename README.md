@@ -3,7 +3,7 @@
 
 <p align="center">
     <img src="readme_data/rl_welcome.png" alt="RL Welcome :IMAGE" width="1500"/>
-</p>
+</p> <br>
 
 <h1 align="left">🔻 Repository Details</h1>
 <p align='justify'>This repository contains various simulations on agents that currently don't think but, using state-of-the-art simulators like Nvidia Isaac Gym, PyBullet, MuJoCo, and Unity. I will train different sets of Reinforcement Learning algorithms on these agents across all these simulators and test all algorithms.</p>
