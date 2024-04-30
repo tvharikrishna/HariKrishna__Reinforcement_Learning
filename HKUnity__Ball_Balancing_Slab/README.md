@@ -1,3 +1,4 @@
+<!------ Copyrights ------>
 <p align="right">© 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗯𝘆 𝘁𝘃𝗵𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮</p>
 <p align="right">5 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥 📚 </p> <br>
 
@@ -24,7 +25,7 @@ Implementation of the Proximal Policy Optimization (PPO) algorithm for a ball ba
 
 <!------ WHY ------>
 <p align="center">
-    <img src="readme_data/why.png" alt="What the project accomplishes" width="600"/>
+    <img src="readme_data/why.png" alt="why" width="600"/>
 </p>
 
 <p align="center"><h1>🎯 Project Vision</h1></p>
@@ -34,7 +35,7 @@ The project vision for the ball balancing slab using Proximal Policy Optimizatio
 
 <!------ HOW ------>
 <p align="center">
-    <img src="readme_data/how.png" alt="What the project accomplishes" width="600"/>
+    <img src="readme_data/how.png" alt="How" width="600"/>
 </p>
 
 <p align="center"><h1>🪓Project Implementation</h1></p>
@@ -58,18 +59,18 @@ The project is designed to demonstrate a reinforcement learning (RL) scenario wh
 Conversely, a negative reward is given when the ball falls off, which helps the agent to learn from its mistakes and avoid actions leading to such an outcome. This control mechanismS allows the slab to be rotated along two axes, which adds complexity to the task and requires the agent to develop a nuanced understanding of the physics involved. <br><br>
 
 <p align="center">
-    <img src="readme_data/project_title.png" alt="Alt text for your image" width="1500"/>
+    <img src="readme_data/project_title.png" alt="title" width="1500"/>
 </p><br>
 
 <h3>▸ About Proximal Policy Optimization (PPO): </h3>
 Proximal Policy Optimization (PPO) is a policy gradient method for reinforcement learning which alternates between sampling data through interaction with the environment and optimizing a "surrogate" objective function using stochastic gradient ascent. Developed by OpenAI, PPO aims to improve upon the stability and sample efficiency of previous methods like Trust Region Policy Optimization (TRPO) but with simpler implementation and better general performance. <br><br>
 
 <p align="center">
-    <img src="readme_data/project_obs1.png" alt="Alt text for your image" width="1500"/>
+    <img src="readme_data/project_obs1.png" alt="Observation Image" width="1500"/>
 </p><br>
 
 <p align="center">
-    <img src="readme_data/project_obs2.png" alt="Alt text for your image" width="1500"/>
+    <img src="readme_data/project_obs2.png" alt="Observation Image" width="1500"/>
 </p><br>
 
 <h3>▸ Key aspects to focus:</h3>
@@ -83,7 +84,7 @@ Proximal Policy Optimization (PPO) is a policy gradient method for reinforcement
 <p align="center"><h2>💠 Results & Analysis </h2></p>
 
 <p align="center">
-    <img src="readme_data/project_obs3.png" alt="Project Observation Image" width="1500"/>
+    <img src="readme_data/project_obs3.png" alt="Observation Image" width="1500"/>
 </p>
 
 <p align='justify'>
@@ -92,6 +93,6 @@ The analysis of the PPO Ball Balancing project demonstrates successful ball stab
 
 <!------ End Image ------>
 <p align="center">
-    <img src="readme_data/hk_quote.png" alt="Alt text for your image" width="1500"/>
+    <img src="readme_data/hk_quote.png" alt="HK Quote" width="1500"/>
 </p>
 
