@@ -18,9 +18,9 @@ Implementation of the Proximal Policy Optimization (PPO) algorithm for a ball ba
 
 <p align="center">
   <a href="ADD_LINK_HERE">
-    <img src="https://img.shields.io/badge/My Project Video-Ball Balancing Slab-blue" alt="Video" width="337" height="30"/>
+    <img src="https://img.shields.io/badge/My Project Video-Ball Balancing Slab-blue" alt="Video" width="400" height="40"/>
   </a>
-</p> <hr> <br> <br> 
+</p> <hr> <br> <br>
 
 <!------ WHY ------>
 <p align="center">
@@ -72,7 +72,7 @@ Proximal Policy Optimization (PPO) is a policy gradient method for reinforcement
     <img src="readme_data/project_obs2.png" alt="Alt text for your image" width="1500"/>
 </p><br>
 
-<h3>▸ Key aspects:</h3>
+<h3>▸ Key aspects to focus:</h3>
 • Clipped Objective: Limits policy updates to prevent excessive changes. <br>
 • Multiple Updates: Allows several mini-batch updates per data sample for better efficiency. <br>
 • KL Penalty/Clipping: Ensures policy updates stay within a "safe" range to maintain training stability. <br>
@@ -88,7 +88,7 @@ Proximal Policy Optimization (PPO) is a policy gradient method for reinforcement
 
 <p align='justify'>
 The analysis of the PPO Ball Balancing project demonstrates successful ball stabilization on the slab with the ability to rapidly adapt to environmental changes. Quantitative metrics and real-time visualizations confirm the algorithm's efficiency and responsiveness, showcasing the practical viability of the system in dynamic scenarios.
-</p> <hr> <br> <br> 
+</p> <hr> <br> <br> <br>
 
 <!------ End Image ------>
 <p align="center">
