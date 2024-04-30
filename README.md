@@ -1,5 +1,5 @@
 <p align="right">© Documentation by tvharikrishna</p>
-<p align="right">1 minute read 📚</p>
+<p align="right">1 minute read 📚</p> <br>
 
 <p align="center">
     <img src="readme_data/rl_welcome.png" alt="RL Welcome :IMAGE" width="1500"/>
